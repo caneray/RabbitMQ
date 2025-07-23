@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caner.ay\\source\\repos\\RabbitMQDeneme\\Receive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064ED13F-E0E9-4C81-9BC7-379E04C8C578}|Receive.csproj|c:\\users\\caner.ay\\source\\repos\\rabbitmqdeneme\\receive\\receive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064ED13F-E0E9-4C81-9BC7-379E04C8C578}|Receive.csproj|solutionrelative:receive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064ED13F-E0E9-4C81-9BC7-379E04C8C578}|Receive.csproj|c:\\users\\caner.ay\\source\\repos\\rabbitmqdeneme\\receive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064ED13F-E0E9-4C81-9BC7-379E04C8C578}|Receive.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caner.ay\\source\\repos\\RabbitMQDeneme\\Receive\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\caner.ay\\source\\repos\\RabbitMQDeneme\\Receive\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:36:33.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Receive.cs",
+              "DocumentMoniker": "C:\\Users\\caner.ay\\source\\repos\\RabbitMQDeneme\\Receive\\Receive.cs",
+              "RelativeDocumentMoniker": "Receive.cs",
+              "ToolTip": "C:\\Users\\caner.ay\\source\\repos\\RabbitMQDeneme\\Receive\\Receive.cs",
+              "RelativeToolTip": "Receive.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:33:55.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
